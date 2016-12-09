@@ -1,0 +1,33 @@
+{
+  "name": "efm8load",
+  "version": "1.0.0",
+  "description": "EFM8 bootloader download library",
+  "main": "index.js",
+  "dependencies": {
+    "crc16": "^1.0.0",
+    "node-hid": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aesora/node-efm8load.git"
+  },
+  "keywords": [
+    "efm8",
+    "silabs",
+    "bootloader",
+    "efm8ub",
+    "efm8ub1",
+    "efm8ub2",
+    "usb"
+  ],
+  "author": "Matthias Breithaupt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aesora/node-efm8load/issues"
+  },
+  "homepage": "https://github.com/aesora/node-efm8load#readme"
+}
